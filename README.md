@@ -12,6 +12,7 @@
 ## 📌 Overview
 
 **NetCon V2** is a modular networking framework designed to structure client-server communication and handle service/controller lifecycles cleanly in Roblox projects. Unlike V1, which relies on a single shared channel, V2 dynamically manages individual remote objects and introduces an automated loading mechanism inspired by frameworks like Knit.
+<img width="600" height="600" alt="NetConv2" src="https://github.com/user-attachments/assets/e145f32f-6d83-4e4d-9761-34f5faba0283" />
 
 ---
 
